@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-web3-master.flake = false;
+  inputs.src-web3-master.ref   = "refs/heads/master";
   inputs.src-web3-master.owner = "status-im";
-  inputs.src-web3-master.ref   = "master";
   inputs.src-web3-master.repo  = "nim-web3";
   inputs.src-web3-master.type  = "github";
   
