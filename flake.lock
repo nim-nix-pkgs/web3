@@ -10689,11 +10689,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656750244,
-        "narHash": "sha256-qdcv6Ul0ZswyClrSNiqWa5fls1Yduummd8E+u/9FdWA=",
+        "lastModified": 1658015117,
+        "narHash": "sha256-a05racPz7k/2IqPOfewiH6NPGraLvbuOFXBFhZfAc70=",
         "owner": "nim-nix-pkgs",
         "repo": "web3",
-        "rev": "d7c325b3f7864cd1b8e020c775fe2e5b35c63c0f",
+        "rev": "a938f69eca6682dd5d3cf2dc4345f49b16eb20bb",
         "type": "github"
       },
       "original": {
